@@ -52,7 +52,8 @@ Open your forked repository on GitHub, click `Code`, and copy the HTTPS link.
 Then open a terminal on your computer and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SURF-2026.git
+git clone https://github.com/PeiqiLi25/SURF-2026
+
 cd SURF-2026
 ```
 
@@ -74,6 +75,8 @@ students/YourName/week-02-progress.md
 students/YourName/code/
 students/YourName/results/
 ```
+
+(this step depends on how you organize your work)
 
 Do not upload private information, passwords, large raw datasets, or files that should not be public.
 
