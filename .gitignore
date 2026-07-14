@@ -1,0 +1,9 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+best_model/**/*.pt
+outputs/**/*.npz
+outputs/**/*.mat
